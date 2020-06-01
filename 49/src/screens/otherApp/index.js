@@ -5,7 +5,7 @@ import {
   Button
 } from "native-base";
 
-export default class Rate extends Component {
+export default class OtherApp extends Component {
     render(){
         return(
             <View>
