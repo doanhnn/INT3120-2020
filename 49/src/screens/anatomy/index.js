@@ -88,7 +88,7 @@ const datasSentences = [
      subtitle: "Tổng hợp công thức viết lại câu"
   },
   {
-     route: "Rewrite",
+     route: "IdiomsAndProverbs",
      title: "14.Thành ngữ, tục ngữ",
      subtitle: "Thành ngữ, tục ngữ và ca dao"
   },

@@ -31,6 +31,8 @@ import Rate from "./screens/rate/";
 import OtherApp from "./screens/otherapp/";
 import EnglishCommunicationApp from "./screens/englishcommunicationapp/";
 
+import IdiomsAndProverbs from "./screens/idiomsandproverbs/";
+
 const Drawer = createDrawerNavigator(
   {
 
@@ -69,7 +71,9 @@ const AppNavigator = createStackNavigator(
     Translator: { screen: Translator },
     Rate: { screen: Rate },
     OtherApp: { screen: OtherApp },
-    EnglishCommunicationApp: { screen: EnglishCommunicationApp }
+    EnglishCommunicationApp: { screen: EnglishCommunicationApp },
+
+    IdiomsAndProverbs: { screen: IdiomsAndProverbs}
   },
   {
     initialRouteName: "Drawer",

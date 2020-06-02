@@ -29,27 +29,27 @@ class IdiomsAndProverbs extends Component {
 
         <Content padder>
             <Text>
-            1. Thành ngữ tục ngữ
-            - Better safe than sorry: Cẩn tắc vô áy náy
-            - Money is the good servant but a bad master: Khôn lấy của che thân, dại lấy thân che của.
-            - The grass are allways green on the other side of the fence: Đứng núi này trông núi nọ.
-            - One bitten, twice shy: Chim phải đạn sợ cành cong.
-            - Honesty is the best policy: Thật thà là thượng sách.
-            - A woman gives and forgives, a man gets and forgets: Đàn bà cho và tha thứ, đàn ông nhận và quên.
-            - No roses without a thorn: Hồng nào mà chả có gai, việc nào mà chả có vài khó khăn.
-            - It nerver rains but it pours: Làm khi lành, để dành khi đau.
-            - Its an ill bird that fouls its own nest: Vạch áo cho người xem lưng/Tốt đẹp phô ra, xấu xa đậy lại.
-            - Dont trouble trouble till trouble troubles you: Tránh voi chẳng xấu mặt nào.
-            - Still water run deep: Tẩm ngẩm tầm ngầm mà đánh chết voi.
-            - Man make house, woman make home: Đàn ông xây nhà, đàn bà xây tổ ấm.
-            - East of west - home is best: Ta về ta tắm ao ta.
-            - Many a litte makes a mickle: Kiến tha lâu cũng đầy tổ.
-            - Penny wise pound foolish: Tham bát bỏ mâm
-            - Money make the mare go: Có tiền mua tiên cũng được.
-            - Like father, like son: Con nhà tông không giống lông thì cũng giống cánh.
-            - The die is cast: Bút sa gà chết.
-            - Love is blind: Tình yêu mù quáng.
-            - So far so good: Mọi thứ vẫn tốt đẹp.
+            1. Thành ngữ tục ngữ{'\n'}
+            - <b>Better safe than sorry</b>: Cẩn tắc vô áy náy{'\n'}
+            - <b>Money is the good servant but a bad master</b>: Khôn lấy của che thân, dại lấy thân che của.{'\n'}
+            - <b>The grass are allways green on the other side of the fence</b>: Đứng núi này trông núi nọ.{'\n'}
+            - <b>One bitten, twice shy</b>: Chim phải đạn sợ cành cong.{'\n'}
+            - <b>Honesty is the best policy</b>: Thật thà là thượng sách.{'\n'}
+            - <b>A woman gives and forgives, a man gets and forgets</b>: Đàn bà cho và tha thứ, đàn ông nhận và quên.{'\n'}
+            - <b>No roses without a thorn</b>: Hồng nào mà chả có gai, việc nào mà chả có vài khó khăn.{'\n'}
+            - <b>It nerver rains but it pours</b>: Làm khi lành, để dành khi đau.{'\n'}
+            - <b>Its an ill bird that fouls its own nest</b>: Vạch áo cho người xem lưng/Tốt đẹp phô ra, xấu xa đậy lại.{'\n'}
+            - <b>Dont trouble trouble till trouble troubles you</b>: Tránh voi chẳng xấu mặt nào.{'\n'}
+            - <b>Still water run deep</b>: Tẩm ngẩm tầm ngầm mà đánh chết voi.{'\n'}
+            - <b>Man make house, woman make home</b>: Đàn ông xây nhà, đàn bà xây tổ ấm.{'\n'}
+            - <b>East of west - home is best</b>: Ta về ta tắm ao ta.{'\n'}
+            - <b>Many a litte makes a mickle</b>: Kiến tha lâu cũng đầy tổ.{'\n'}
+            - <b>Penny wise pound foolish</b>: Tham bát bỏ mâm{'\n'}
+            - <b>Money make the mare go</b>: Có tiền mua tiên cũng được.{'\n'}
+            - <b>Like father, like son</b>: Con nhà tông không giống lông thì cũng giống cánh.{'\n'}
+            - <b>The die is cast</b>: Bút sa gà chết.{'\n'}
+            - <b>Love is blind</b>: Tình yêu mù quáng.{'\n'}
+            - <b>So far so good</b>: Mọi thứ vẫn tốt đẹp.
             </Text>
         </Content>
       </Container>
