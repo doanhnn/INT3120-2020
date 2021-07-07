@@ -16,6 +16,7 @@ import Languages from './languages.json';
 import SpeechAndroid from 'react-native-android-voice';
 import { PowerTranslator, ProviderTypes, TranslatorConfiguration, TranslatorFactory } from 'react-native-power-translator';
 import Tts from 'react-native-tts';
+import translateKey from "./apiKey.json";
 
 
 export default class Translator extends Component {
@@ -65,7 +66,7 @@ export default class Translator extends Component {
       }
 
    render() {
-       TranslatorConfiguration.setConfig(ProviderTypes.Google,'AIzaSyBGDFW3s1gYO90pneYYiG8MWuuUTS_y5h8', this.state.languageCode);
+       TranslatorConfiguration.setConfig(ProviderTypes.Google, translateKey.API_KEY, this.state.languageCode);
        return (
             <Container style={styles.container}>
             <Header>
